@@ -12,7 +12,7 @@ Attaching some of the screenshots
 
 <img width="1470" alt="Screenshot 2024-04-07 at 5 18 05 PM" src="https://github.com/Anil-matcha/Hiring-Test/assets/4326215/2b95c46d-7609-45c9-a34b-307dc92356e6">
 
-Requirements :-
+### Requirements :-
 
 Code in React/Next
 
