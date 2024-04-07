@@ -32,4 +32,4 @@ Use of chatgpt for coding allowed
 
 ### Job Description
 
-Refer here to get more details about job, work enviornment, compensation etc. https://www.notion.so/EmbedAI-Job-Description-f456a5bf6f234bb08f5513c20b7af301?pvs=4
+Refer here to get more details about job, work enviornment, compensation etc. [Job description](https://silicon-dugong-35d.notion.site/EmbedAI-Job-Description-f456a5bf6f234bb08f5513c20b7af301)
