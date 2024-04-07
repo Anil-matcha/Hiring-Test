@@ -15,9 +15,15 @@ Attaching some of the screenshots
 Requirements :-
 
 Code in React/Next
+
 Only frontend needed, no backend
+
 Needs to be mobile responsive
+
 Components visible in the above screenshots like navbar etc. have to be present
+
 Code needs to be shared on github for evaluation along with steps to run
+
 Homepage, create character, chat with character screens are requirement. Any extra screens developed are good to have and will receive additional points
+
 Additional points for sharing figma design
