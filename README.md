@@ -29,3 +29,7 @@ Homepage, create character, chat with character screens are requirement. Any ext
 Additional points for sharing figma design
 
 Use of chatgpt for coding allowed
+
+### Job Description
+
+Refer here to get more details about job, work enviornment, compensation etc. https://www.notion.so/EmbedAI-Job-Description-f456a5bf6f234bb08f5513c20b7af301?pvs=4
